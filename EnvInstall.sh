@@ -16,7 +16,7 @@ sudo dpkg -i packages-microsoft-prod.deb
 sudo apt-get install -y powershell
 
 #Install NuGet
-sudo apt-get install nuget
+sudo apt-get install -y nuget
 
 #Install DotNet
 sudo add-apt-repository universe
